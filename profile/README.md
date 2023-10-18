@@ -8,8 +8,9 @@ Our tiny team has done some big work since 2018. Here are some of the things we'
 
 - [model-res-avm :house:](https://github.com/ccao-data/model-res-avm) - Model to create assessed values for all single-family/multi-family (up to 6 unit) properties in Cook County
 - [model-condo-avm :office:](https://github.com/ccao-data/model-condo-avm) - Predictive model for all residential condominium properties in Cook County
-- [ptaxsim :bar_chart:](https://github.com/ccao-data/ptaxsim) - Database and R package to estimate counterfactual Cook County property tax bills
-- [Cook County Open Data :file_folder:](https://datacatalog.cookcountyil.gov/browse?tags=cook+county+assessor) - Public datasets, including historic assessed values, property characteristics, appeals, etc.
+- [ptaxsim :dollar:](https://github.com/ccao-data/ptaxsim) - Database and R package to estimate counterfactual Cook County property tax bills
+- [data-architecture :wrench:](https://github.com/ccao-data/data-architecture) and [documentation :book:](https://ccao-data.github.io/data-architecture) - ETL/ELT stuff, SQL definitions, lineage graphs, column descriptions, etc.
+- [Cook County Open Data :bar_chart:](https://datacatalog.cookcountyil.gov/browse?tags=cook+county+assessor) - Public datasets, including historic assessed values, property characteristics, appeals, etc.
 
 ### Get involved
 
