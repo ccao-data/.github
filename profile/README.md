@@ -1,3 +1,7 @@
+## :tada: We're hiring! :tada:
+
+The Data Team is seeking a Director of Data Science in a role that unites data science best practices, innovation, and public service. [Read more and apply](https://www.linkedin.com/feed/update/urn:li:activity:7368102863970951198/) by September 11.
+
 ## Hi there! :wave:
 
 We're the [Cook County Assessor's](https://www.cookcountyassessor.com) Data Department. We make predictive models to help determine the [assessed value](https://github.com/ccao-data/wiki/blob/master/Handbook/Glossary.md#assessed-value-av) of every [residential](https://github.com/ccao-data/model-res-avm#readme) and [condominium](https://github.com/ccao-data/model-condo-avm#readme) property in Cook County. We also make [tools](https://github.com/ccao-data/ptaxsim#ptaxsim) and [reports](https://www.cookcountyassessor.com/valuation-reports) to make the Cook County property system more transparent, predictable, and fair.
