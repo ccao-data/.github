@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-We're the [Cook County Assessor's](https://www.cookcountyassessor.com) Data Department. We make predictive models to help determine the [assessed value](https://github.com/ccao-data/wiki/blob/master/Handbook/Glossary.md#assessed-value-av) of every [residential](https://github.com/ccao-data/model-res-avm#readme) and [condominium](https://github.com/ccao-data/model-condo-avm#readme) property in Cook County. We also make [tools](https://github.com/ccao-data/ptaxsim#ptaxsim) and [reports](https://www.cookcountyassessoril.gov/valuation-reports) to make the Cook County property system more transparent, predictable, and fair.
+We're the [Cook County Assessor's](https://www.cookcountyassessoril.gov) Data Department. We make predictive models to help determine the [assessed value](https://github.com/ccao-data/wiki/blob/master/Handbook/Glossary.md#assessed-value-av) of every [residential](https://github.com/ccao-data/model-res-avm#readme) and [condominium](https://github.com/ccao-data/model-condo-avm#readme) property in Cook County. We also make [tools](https://github.com/ccao-data/ptaxsim#ptaxsim) and [reports](https://www.cookcountyassessoril.gov/valuation-reports) to make the Cook County property system more transparent, predictable, and fair.
 
 ### Our work
 
