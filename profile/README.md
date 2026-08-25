@@ -18,7 +18,3 @@ Our tiny team has done some big work since 2018. Here are some of the things we'
 - Check out the [public](https://github.com/ccao-data/public) repo for [data requests :mag:](https://github.com/ccao-data/public#data-requests), our [talks :information_desk_person:](https://github.com/ccao-data/public#public-engagement), and [ways to contact us :mailbox:](https://github.com/ccao-data/public#contact-us).
 - View all our open [issues :white_check_mark:](https://github.com/search?q=user%3Accao-data+state%3Aopen&type=Issues) and [pull requests :rocket:](https://github.com/search?q=user%3Accao-data+state%3Aopen&type=pullrequests). We welcome forks, pull requests, and new issues!
 - Visit our [wiki :blue_book:](https://github.com/ccao-data/wiki/blob/master/README.md) to learn more about the Data Department's mission, vision, and practices.
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
